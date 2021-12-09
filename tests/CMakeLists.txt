@@ -11,7 +11,7 @@ file(GLOB_RECURSE TEST_SOURCES LIST_DIRECTORIES false *.hpp *.cpp)
 set(test1 Test1Tester)
 set(test1src lib-tester.cpp)
 
-# Specify second test program and srouce files
+# Specify second test program and source files
 #set(test2 Test2Tester)
 #set(test2src lib-tester2.cpp)
 
