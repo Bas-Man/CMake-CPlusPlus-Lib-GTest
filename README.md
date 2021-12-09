@@ -200,4 +200,4 @@ If you look through you will see that I have commented out a *second* source and
 
 ## Screen Capture
 
-![VSCode Screen Capture](./C++ CMake Library Development.png)
+![VSCode Screen Capture](C++-CMake-Library-Development.png)
