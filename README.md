@@ -4,7 +4,7 @@ This is a **BAREBONES** *C++* template with *Google Test* support using *CMake*.
 
 This template was created to allow for programming under *Mac OS*. But the files should work under other systems.
 
-## Directory Structure
+## Directory Strucure
 
 This is the structure that we start with. It should be noted that the **build** directory will be generated in the root of this structure under *VSCode*. This appears, to generally be discouraged and can be changed with some configuration options that I will not go into here.
 
