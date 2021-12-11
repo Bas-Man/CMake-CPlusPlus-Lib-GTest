@@ -1,16 +1,8 @@
 #include <gtest/gtest.h>
 #include "../src/Example.hpp"
 
-TEST(TESTOne, Test1) {
-    EXPECT_EQ(1,1);
-}
-
-TEST(TestTwo, test2) {
-    ASSERT_EQ(true, true);
-}
-
 TEST(TESTThree, Number) {
-    ASSERT_EQ(10, num());
+    ASSERT_EQ(11, num());
 }
 
 int main(int argc, char **argv) {
