@@ -2,7 +2,7 @@
 #include "../src/Example.hpp"
 
 TEST(TESTThree, Number) {
-    ASSERT_EQ(11, num());
+    ASSERT_EQ(10, num());
 }
 
 int main(int argc, char **argv) {
