@@ -2,5 +2,6 @@
 #define EXAMPLE_HPP
 
 int num();
+int num2();
 
 #endif //
